@@ -10,11 +10,12 @@
 ### Connect with me:
 
 [<img align="left" alt="audhiaprilliant.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="audhiaprilliant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="audhiaprilliant | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="audhiaprilliant | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="audhiaprilliant | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="audhiaprilliant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="audhiaprilliant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -51,6 +52,7 @@
 <img align="left" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=audhiaprilliant&show_icons=true&hide_border=true" />
 
 [website]: http://audhiaprilliant.github.io/
+[medium]: 'https://medium.com/@audhiaprilliant/'
 [kaggle]: https://www.kaggle.com/audhiaprilliant
 [codechef]: http://codechef.com/users/audhi
 [twitter]: https://twitter.com/audhiaprilliant
