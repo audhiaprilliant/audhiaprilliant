@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Explanatory Data Analysis of Olympics Data 1896 - 2016](https://audhiaprilliant.github.io/olympics-explanatory-data-analysis/)
 - [Apache Airflow as Job Orchestration for Web Scraping of Covid-19](https://audhiaprilliant.github.io/web-scraping-covid-using-airflow/)
 - [Git as Version Control System - Introduction](https://audhiaprilliant.github.io/git-version-control-system/)
 - [Apache Airflow as Workflow Management System](https://audhiaprilliant.github.io/airflow-documentation/)
 - [We Need Python for Helping Our Task](https://audhiaprilliant.github.io/we-need-python-for-helping-task/)
+- [CodeChef as Competitive Programming Platform](https://audhiaprilliant.github.io/code-chef-competitive-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -52,7 +52,7 @@
 <img align="left" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=audhiaprilliant&show_icons=true&hide_border=true" />
 
 [website]: http://audhiaprilliant.github.io/
-[medium]: 'https://medium.com/@audhiaprilliant/'
+[medium]: https://medium.com/@audhiaprilliant/
 [kaggle]: https://www.kaggle.com/audhiaprilliant
 [codechef]: http://codechef.com/users/audhi
 [twitter]: https://twitter.com/audhiaprilliant
