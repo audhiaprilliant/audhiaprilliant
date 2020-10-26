@@ -57,5 +57,5 @@
 [codechef]: http://codechef.com/users/audhi
 [twitter]: https://twitter.com/audhiaprilliant
 [facebook]: https://www.facebook.com/audhi.aprilliant/
-[instagram]: https://instagram.com/audhiaprilliant
+
 [linkedin]: https://www.linkedin.com/in/audhiaprilliant/
