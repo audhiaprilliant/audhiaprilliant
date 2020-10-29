@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-        	comment_tag_name: "MEDIUM-STORY-LIST"
+          comment_tag_name: "MEDIUM-STORY-LIST"
           feed_list: "https://medium.com/feed/@audhiaprilliant"
