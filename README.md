@@ -36,6 +36,12 @@
 
 ---
 
+### 📕 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My Data Science Articles and Projects on Medium](https://audhiaprilliant.github.io/medium-article-data-science/)
