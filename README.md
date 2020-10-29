@@ -36,7 +36,7 @@
 
 ---
 
-### 📕 Latest Medium Story
+### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
 - [Learn Basic Git Commands for Your Data Science Works](https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d?source=rss-140ffe7d74ee------2)
 - [Twitter Data Acquisition and Pre-processing Using R](https://towardsdatascience.com/twitter-data-acquisition-and-pre-processing-using-r-c999746babbe?source=rss-140ffe7d74ee------2)
