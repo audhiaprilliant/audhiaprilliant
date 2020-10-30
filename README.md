@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Connect to PostgreSQL Database Server Using psycopg2 with an Elegant Configuration File](https://towardsdatascience.com/connect-to-postgresql-database-server-using-psycopg2-with-an-elegant-configuration-file-dba6fc885989?source=rss-140ffe7d74ee------2)
 - [Learn Basic Git Commands for Your Data Science Works](https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d?source=rss-140ffe7d74ee------2)
 - [Twitter Data Acquisition and Pre-processing Using R](https://towardsdatascience.com/twitter-data-acquisition-and-pre-processing-using-r-c999746babbe?source=rss-140ffe7d74ee------2)
 - [Concave Function to Interpolate Stocks Data](https://towardsdatascience.com/curve-function-to-interpolate-stocks-data-cd01523ed0a0?source=rss-140ffe7d74ee------2)
 - [How to Visualize Your Twitter Data Interactively Using R (ggplot2)](https://towardsdatascience.com/twitter-data-visualization-fb4f45b63728?source=rss-140ffe7d74ee------2)
-- [Introduction to Correspondence Analysis Using R and Indonesia Real Dataset](https://towardsdatascience.com/correspondence-analysis-using-r-cd57675ffc3a?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
