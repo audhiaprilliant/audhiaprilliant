@@ -40,9 +40,9 @@
 <!-- MEDIUM-STORY-LIST:START -->
 - [Create a Scientific Data Visualization from Scratch Using Plotnine in Python](https://towardsdatascience.com/create-a-scientific-data-visualization-from-scratch-using-plotnine-in-python-c420dc4b3376?source=rss-140ffe7d74ee------2)
 - [Introduction to Plotnine as the Alternative of Data Visualization Package in Python](https://towardsdatascience.com/introduction-to-plotnine-as-the-alternative-of-data-visualization-package-in-python-46011ebef7fe?source=rss-140ffe7d74ee------2)
-- [Create Your First Cronjob in the Linux Server](https://towardsdatascience.com/create-your-first-cronjob-on-the-linux-server-74e2fdc76e78?source=rss-140ffe7d74ee------2)
-- [The Implementation of Selenium for Web Scraping of KNApSAcK Family Databases](https://medium.com/analytics-vidhya/selenium-for-web-scraping-of-knapsack-family-databases-24900eb0a5fd?source=rss-140ffe7d74ee------2)
-- [Connect to PostgreSQL Database Server Using psycopg2 with an Elegant Configuration File](https://towardsdatascience.com/connect-to-postgresql-database-server-using-psycopg2-with-an-elegant-configuration-file-dba6fc885989?source=rss-140ffe7d74ee------2)
+- [Getting Started with Cronjob in the Linux Server: a Completed Tutorial for Beginner](https://towardsdatascience.com/create-your-first-cronjob-on-the-linux-server-74e2fdc76e78?source=rss-140ffe7d74ee------2)
+- [Getting Started with Selenium WebDriver for Web Scraping Using Python](https://medium.com/analytics-vidhya/selenium-for-web-scraping-of-knapsack-family-databases-24900eb0a5fd?source=rss-140ffe7d74ee------2)
+- [Connect to PostgreSQL Database Server Using Python Module of psycopg2](https://towardsdatascience.com/connect-to-postgresql-database-server-using-psycopg2-with-an-elegant-configuration-file-dba6fc885989?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
