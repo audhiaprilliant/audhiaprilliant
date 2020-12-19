@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Simulation of the Linear Regression Model with Autocorrelated Errors](https://towardsdatascience.com/simulation-of-the-linear-regression-model-with-autocorrelated-errors-b5606186f406?source=rss-140ffe7d74ee------2)
 - [Create a Simple Continuous Integration (CI) for Medium RSS Feed in GitHub Profile README](https://towardsdatascience.com/create-a-simple-continuous-integration-ci-for-medium-rss-feed-in-github-profile-readme-b5dc6fdf6315?source=rss-140ffe7d74ee------2)
 - [Create a Scientific Data Visualization from Scratch Using Plotnine in Python](https://towardsdatascience.com/create-a-scientific-data-visualization-from-scratch-using-plotnine-in-python-c420dc4b3376?source=rss-140ffe7d74ee------2)
 - [Introduction to Plotnine as the Alternative of Data Visualization Package in Python](https://towardsdatascience.com/introduction-to-plotnine-as-the-alternative-of-data-visualization-package-in-python-46011ebef7fe?source=rss-140ffe7d74ee------2)
 - [Getting Started with Cron Job in the Linux Server: A Complete Tutorial for Beginner](https://towardsdatascience.com/create-your-first-cronjob-on-the-linux-server-74e2fdc76e78?source=rss-140ffe7d74ee------2)
-- [Getting Started with Selenium WebDriver for Web Scraping Using Python](https://medium.com/analytics-vidhya/selenium-for-web-scraping-of-knapsack-family-databases-24900eb0a5fd?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
