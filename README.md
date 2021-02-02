@@ -38,7 +38,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [Introduction to Biplot Analysis: Get An Insights based on Indonesian Poverty Data](https://towardsdatascience.com/take-a-decision-based-on-biplot-analysis-on-indonesian-poverty-data-679c28d4ad46?source=rss-140ffe7d74ee------2)
+- [Introduction to Biplot Analysis: Get An Insights based on Indonesia Poverty Data](https://towardsdatascience.com/take-a-decision-based-on-biplot-analysis-on-indonesian-poverty-data-679c28d4ad46?source=rss-140ffe7d74ee------2)
 - [The k-prototype as Clustering Algorithm for Mixed Data Type (Categorical and Numerical)](https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb?source=rss-140ffe7d74ee------2)
 - [Optimal Threshold for Imbalanced Classification](https://towardsdatascience.com/optimal-threshold-for-imbalanced-classification-5884e870c293?source=rss-140ffe7d74ee------2)
 - [Simulation of the Linear Regression Model with Autocorrelated Errors](https://towardsdatascience.com/simulation-of-the-linear-regression-model-with-autocorrelated-errors-b5606186f406?source=rss-140ffe7d74ee------2)
