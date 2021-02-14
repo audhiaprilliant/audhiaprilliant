@@ -38,7 +38,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [Fuzzy String Matching Optimization Using TF-IDF and KNN](https://towardsdatascience.com/fuzzy-string-matching-optimization-using-tf-idf-and-knn-b07fce69b58f?source=rss-140ffe7d74ee------2)
+- [The Optimization of Fuzzy String Matching Using TF-IDF and KNN](https://towardsdatascience.com/fuzzy-string-matching-optimization-using-tf-idf-and-knn-b07fce69b58f?source=rss-140ffe7d74ee------2)
 - [Introduction to Biplot Analysis: Get Insights based on Indonesia Poverty Data](https://towardsdatascience.com/take-a-decision-based-on-biplot-analysis-on-indonesian-poverty-data-679c28d4ad46?source=rss-140ffe7d74ee------2)
 - [The k-prototype as Clustering Algorithm for Mixed Data Type (Categorical and Numerical)](https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb?source=rss-140ffe7d74ee------2)
 - [Optimal Threshold for Imbalanced Classification](https://towardsdatascience.com/optimal-threshold-for-imbalanced-classification-5884e870c293?source=rss-140ffe7d74ee------2)
