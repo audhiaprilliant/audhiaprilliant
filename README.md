@@ -38,7 +38,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [The k-modes as Clustering Algorithm for Categorical Data Type](https://audhiaprilliant.medium.com/the-k-modes-as-clustering-algorithm-for-categorical-data-type-bcde8f95efd7?source=rss-140ffe7d74ee------2)
+- [The k-modes as Clustering Algorithm for Categorical Data Type](https://medium.com/geekculture/the-k-modes-as-clustering-algorithm-for-categorical-data-type-bcde8f95efd7?source=rss-140ffe7d74ee------2)
 - [The Factor Analysis for Constructing a Composite Index](https://audhiaprilliant.medium.com/the-factor-analysis-for-constructing-a-composite-index-2496686fc54c?source=rss-140ffe7d74ee------2)
 - [Getting Started with the Customer Segmentation Using RFM Model](https://codeburst.io/getting-started-with-the-customer-segmentation-using-rfm-model-22610a747051?source=rss-140ffe7d74ee------2)
 - [The Optimization of Fuzzy String Matching Using TF-IDF and KNN](https://audhiaprilliant.medium.com/fuzzy-string-matching-optimization-using-tf-idf-and-knn-b07fce69b58f?source=rss-140ffe7d74ee------2)
