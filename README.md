@@ -38,7 +38,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [My Medium Articles — Let’s Learn and Share Ideas Together](https://audhiaprilliant.medium.com/my-medium-articles-lets-learn-and-share-ideas-together-41447af94da1?source=rss-140ffe7d74ee------2)
+- [My Medium Articles — Let’s Learn and Share Ideas Together](https://medium.com/analytics-vidhya/my-medium-articles-lets-learn-and-share-ideas-together-41447af94da1?source=rss-140ffe7d74ee------2)
 - [API for Indonesian ID Card Number Identification Using Flask](https://audhiaprilliant.medium.com/api-for-indonesian-id-card-number-identification-using-flask-ffee0862fc14?source=rss-140ffe7d74ee------2)
 - [Cohen’s Kappa and Fleiss’ Kappa— How to Measure the Agreement Between Raters](https://audhiaprilliant.medium.com/cohens-kappa-and-fleiss-kappa-how-to-measure-the-agreement-between-raters-9ec12edef121?source=rss-140ffe7d74ee------2)
 - [Python Runtime Profiling using SnakeViz — How to Inspect the Codes Performances](https://audhiaprilliant.medium.com/python-runtime-profiling-using-snakeviz-how-to-inspect-the-codes-performances-b9183ced32ed?source=rss-140ffe7d74ee------2)
