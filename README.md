@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Graph Theory for Typo Corrector Using Python — How It Can Improve the String Matching Algorithm](https://audhiaprilliant.medium.com/graph-theory-for-typo-corrector-using-python-how-it-can-improve-the-string-matching-algorithm-59df8ead3acb?source=rss-140ffe7d74ee------2)
 - [How Instagram Adds Coronavirus Centers for Disease Control and Prevention Links to Posts or Stories…](https://audhiaprilliant.medium.com/how-instagram-adds-coronavirus-centers-for-disease-control-and-prevention-links-to-posts-or-stories-86f6a11b9480?source=rss-140ffe7d74ee------2)
 - [My Medium Articles Related to Data Science — Let’s Learn and Share Ideas Together](https://medium.com/analytics-vidhya/my-medium-articles-lets-learn-and-share-ideas-together-41447af94da1?source=rss-140ffe7d74ee------2)
 - [API for Indonesian ID Card Number Identification Using Flask](https://audhiaprilliant.medium.com/api-for-indonesian-id-card-number-identification-using-flask-ffee0862fc14?source=rss-140ffe7d74ee------2)
 - [Cohen’s Kappa and Fleiss’ Kappa— How to Measure the Agreement Between Raters](https://audhiaprilliant.medium.com/cohens-kappa-and-fleiss-kappa-how-to-measure-the-agreement-between-raters-9ec12edef121?source=rss-140ffe7d74ee------2)
-- [Python Runtime Profiling using SnakeViz — How to Inspect the Codes Performances](https://audhiaprilliant.medium.com/python-runtime-profiling-using-snakeviz-how-to-inspect-the-codes-performances-b9183ced32ed?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
