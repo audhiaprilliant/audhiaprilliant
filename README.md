@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Why Do Initial Cluster Centroids in k-means Affect the Final Cluster Generated?](https://audhiaprilliant.medium.com/why-do-initial-cluster-centroids-in-k-means-affect-the-final-cluster-generated-71c115141be8?source=rss-140ffe7d74ee------2)
 - [Walk-Forward Optimization — Cross-Validation Technique for Time-Series Data](https://audhiaprilliant.medium.com/walk-forward-optimization-cross-validation-technique-for-time-series-data-61739f58f2c0?source=rss-140ffe7d74ee------2)
 - [The Statistics Simulation of Central Limit Theorem and Law of Large Number](https://audhiaprilliant.medium.com/the-statistics-simulation-of-central-limit-theorem-and-law-of-large-number-b4e489a139c4?source=rss-140ffe7d74ee------2)
 - [How Come the Binary Search Becomes the Fastest Searching Algorithm — 1000 Times Faster than Linear…](https://medium.com/geekculture/how-come-the-binary-search-becomes-the-fastest-searching-algorithm-1000-times-faster-than-linear-35cb8e2aef4f?source=rss-140ffe7d74ee------2)
 - [Graph Theory for Typo Corrector Using Python — How It Can Improve the String Matching Algorithm](https://audhiaprilliant.medium.com/graph-theory-for-typo-corrector-using-python-how-it-can-improve-the-string-matching-algorithm-59df8ead3acb?source=rss-140ffe7d74ee------2)
-- [How Instagram Adds CDC Links to Posts or Stories Mentioning Virus with Optical Character…](https://medium.com/analytics-vidhya/how-instagram-adds-coronavirus-centers-for-disease-control-and-prevention-links-to-posts-or-stories-86f6a11b9480?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
