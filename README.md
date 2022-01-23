@@ -49,11 +49,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-step Manual Calculation of Genetic Algorithm](https://audhiaprilliant.github.io/genetic-algorithm-calculation/)
 - [My Data Science Articles and Projects on Medium](https://audhiaprilliant.github.io/medium-article-data-science/)
 - [Explanatory Data Analysis of Olympics Data 1896 - 2016](https://audhiaprilliant.github.io/olympics-explanatory-data-analysis/)
 - [Apache Airflow as Job Orchestration for Web Scraping of Covid-19](https://audhiaprilliant.github.io/web-scraping-covid-using-airflow/)
 - [Git as Version Control System - Introduction](https://audhiaprilliant.github.io/git-version-control-system/)
-- [Apache Airflow as Workflow Management System](https://audhiaprilliant.github.io/airflow-documentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
