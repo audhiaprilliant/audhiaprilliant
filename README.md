@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [The Step-by-Step Manual Calculation of Genetic Algorithm for Optimization](https://audhiaprilliant.medium.com/the-step-by-step-manual-calculation-of-genetic-algorithm-for-optimization-477dad521a1b?source=rss-140ffe7d74ee------2)
 - [Fixed Feature Extractor as the Transfer Learning Method for Image Classification Using MobileNet](https://audhiaprilliant.medium.com/fixed-feature-extractor-as-the-transfer-learning-method-for-image-classification-using-mobilenet-b26376e25d49?source=rss-140ffe7d74ee------2)
 - [How to Find Diameter of Graph Using SNAP &lpar;Stanford Network Analysis Project&rpar; Package](https://audhiaprilliant.medium.com/how-to-find-diameter-of-graph-using-snap-stanford-network-analysis-project-package-3c0edf59f50d?source=rss-140ffe7d74ee------2)
 - [How to Find a File System Efficiently Using Breadth-First Search and Depth-First Search](https://audhiaprilliant.medium.com/how-to-find-a-file-system-efficiently-using-breadth-first-search-and-depth-first-search-3881ec26320a?source=rss-140ffe7d74ee------2)
 - [How to Simulate the Stock and Cryptocurrency Price Data Using Monte Carlo Simulation](https://medium.com/analytics-vidhya/how-to-simulate-the-stock-and-cryptocurrency-price-data-using-monte-carlo-simulation-275b9f18f556?source=rss-140ffe7d74ee------2)
-- [Why Do Initial Cluster Centroids in k-means Affect the Final Cluster Generated?](https://medium.com/geekculture/why-do-initial-cluster-centroids-in-k-means-affect-the-final-cluster-generated-71c115141be8?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
