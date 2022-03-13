@@ -51,9 +51,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [BigID Professional Course](https://audhiaprilliant.github.io/bigid-professional-course/)
 - [Step-by-step Manual Calculation of Genetic Algorithm](https://audhiaprilliant.github.io/genetic-algorithm-calculation/)
+- [Statistical Workshop at IPB University, April 2021](https://audhiaprilliant.github.io/statistical-workshop-ipb-university-2021/)
 - [My Data Science Articles and Projects on Medium](https://audhiaprilliant.github.io/medium-article-data-science/)
 - [Explanatory Data Analysis of Olympics Data 1896 - 2016](https://audhiaprilliant.github.io/olympics-explanatory-data-analysis/)
-- [Apache Airflow as Job Orchestration for Web Scraping of Covid-19](https://audhiaprilliant.github.io/web-scraping-covid-using-airflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
