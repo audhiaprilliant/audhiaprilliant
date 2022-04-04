@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [The Probability in Birthday Paradox](https://audhiaprilliant.medium.com/the-probability-in-birthday-paradox-e6bbee735029?source=rss-140ffe7d74ee------2)
 - [Genetic Algorithm based Clustering Algorithm in Searching Robust Initial Centroids for k-means](https://audhiaprilliant.medium.com/genetic-algorithm-based-clustering-algorithm-in-searching-robust-initial-centroids-for-k-means-e3b4d892a4be?source=rss-140ffe7d74ee------2)
 - [The Step-by-Step Manual Calculation of Genetic Algorithm for Optimization](https://audhiaprilliant.medium.com/the-step-by-step-manual-calculation-of-genetic-algorithm-for-optimization-477dad521a1b?source=rss-140ffe7d74ee------2)
 - [Fixed Feature Extractor as the Transfer Learning Method for Image Classification Using MobileNet](https://audhiaprilliant.medium.com/fixed-feature-extractor-as-the-transfer-learning-method-for-image-classification-using-mobilenet-b26376e25d49?source=rss-140ffe7d74ee------2)
 - [How to Find Diameter of Graph Using SNAP &lpar;Stanford Network Analysis Project&rpar; Package](https://audhiaprilliant.medium.com/how-to-find-diameter-of-graph-using-snap-stanford-network-analysis-project-package-3c0edf59f50d?source=rss-140ffe7d74ee------2)
-- [How to Find a File System Efficiently Using Breadth-First Search and Depth-First Search](https://audhiaprilliant.medium.com/how-to-find-a-file-system-efficiently-using-breadth-first-search-and-depth-first-search-3881ec26320a?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
