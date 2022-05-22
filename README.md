@@ -49,11 +49,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Learning Studio &lpar;DSLS&rpar; 2022](https://audhiaprilliant.github.io/data-science-learning-studio-2022-facilitator/)
 - [BigID Professional Course](https://audhiaprilliant.github.io/bigid-professional-course/)
 - [Step-by-step Manual Calculation of Genetic Algorithm](https://audhiaprilliant.github.io/genetic-algorithm-calculation/)
 - [Statistical Workshop at IPB University, April 2021](https://audhiaprilliant.github.io/statistical-workshop-ipb-university-2021/)
 - [Statistics Academy at Department of Statistics IPB University, March 2021](https://audhiaprilliant.github.io/statistics-academy-gsb-2021/)
-- [My Data Science Articles and Projects on Medium](https://audhiaprilliant.github.io/medium-article-data-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
