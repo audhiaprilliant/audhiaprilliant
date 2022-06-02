@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Introduction to Fuzzy c-means for Clustering Algorithm](https://audhiaprilliant.medium.com/introduction-to-fuzzy-c-means-for-clustering-algorithm-61b4c647a22b?source=rss-140ffe7d74ee------2)
 - [How to Create Interactive Data Visualization in Plotly Like a Pro](https://medium.com/geekculture/how-to-create-interactive-data-visualization-in-plotly-like-a-pro-d8588231501a?source=rss-140ffe7d74ee------2)
 - [The Probability in Birthday Paradox](https://audhiaprilliant.medium.com/the-probability-in-birthday-paradox-e6bbee735029?source=rss-140ffe7d74ee------2)
 - [Genetic Algorithm based Clustering Algorithm in Searching Robust Initial Centroids for k-means](https://audhiaprilliant.medium.com/genetic-algorithm-based-clustering-algorithm-in-searching-robust-initial-centroids-for-k-means-e3b4d892a4be?source=rss-140ffe7d74ee------2)
 - [The Step-by-Step Manual Calculation of Genetic Algorithm for Optimization](https://audhiaprilliant.medium.com/the-step-by-step-manual-calculation-of-genetic-algorithm-for-optimization-477dad521a1b?source=rss-140ffe7d74ee------2)
-- [Fixed Feature Extractor as the Transfer Learning Method for Image Classification Using MobileNet](https://audhiaprilliant.medium.com/fixed-feature-extractor-as-the-transfer-learning-method-for-image-classification-using-mobilenet-b26376e25d49?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
