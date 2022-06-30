@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Part 1 — An Overview of Indonesia’s Natural Disasters Trends and Insights Over the Last 21 Years](https://audhiaprilliant.medium.com/part-1-an-overview-of-indonesias-natural-disasters-trends-and-insights-over-the-last-21-years-1dd72bbf21a2?source=rss-140ffe7d74ee------2)
 - [Introduction to Fuzzy c-means for Clustering Algorithm](https://audhiaprilliant.medium.com/introduction-to-fuzzy-c-means-for-clustering-algorithm-61b4c647a22b?source=rss-140ffe7d74ee------2)
 - [How to Create Interactive Data Visualization in Plotly Like a Pro](https://medium.com/geekculture/how-to-create-interactive-data-visualization-in-plotly-like-a-pro-d8588231501a?source=rss-140ffe7d74ee------2)
 - [The Probability in Birthday Paradox](https://audhiaprilliant.medium.com/the-probability-in-birthday-paradox-e6bbee735029?source=rss-140ffe7d74ee------2)
 - [Genetic Algorithm based Clustering Algorithm in Searching Robust Initial Centroids for k-means](https://audhiaprilliant.medium.com/genetic-algorithm-based-clustering-algorithm-in-searching-robust-initial-centroids-for-k-means-e3b4d892a4be?source=rss-140ffe7d74ee------2)
-- [The Step-by-Step Manual Calculation of Genetic Algorithm for Optimization](https://audhiaprilliant.medium.com/the-step-by-step-manual-calculation-of-genetic-algorithm-for-optimization-477dad521a1b?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
