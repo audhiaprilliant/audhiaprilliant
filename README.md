@@ -38,7 +38,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [Introduction to Monty Hall Problem — How More Information Can Affects the Probability](https://audhiaprilliant.medium.com/introduction-to-monty-hall-problem-how-more-information-can-affects-the-probability-a1ee2f54e9b1?source=rss-140ffe7d74ee------2)
+- [Introduction to Monty Hall Problem — How More Information Can Affects the Probability](https://medium.com/geekculture/introduction-to-monty-hall-problem-how-more-information-can-affects-the-probability-a1ee2f54e9b1?source=rss-140ffe7d74ee------2)
 - [The Principle of Least Effort and Zipf Distribution in Information Retrieval](https://medium.com/geekculture/the-principle-of-least-effort-and-zipf-distribution-in-information-retrieval-a7199d68465f?source=rss-140ffe7d74ee------2)
 - [Part 2 — An Overview of Indonesia’s Natural Disasters Trends and Insights Over the Last 21 Years](https://audhiaprilliant.medium.com/part-2-an-overview-of-indonesias-natural-disasters-trends-and-insights-over-the-last-21-years-1fa2ca8373eb?source=rss-140ffe7d74ee------2)
 - [Part 1 — An Overview of Indonesia’s Natural Disasters Trends and Insights Over the Last 21 Years](https://audhiaprilliant.medium.com/part-1-an-overview-of-indonesias-natural-disasters-trends-and-insights-over-the-last-21-years-1dd72bbf21a2?source=rss-140ffe7d74ee------2)
