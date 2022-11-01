@@ -38,11 +38,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Part 1 — End to End Machine Learning Model Deployment Using Flask](https://audhiaprilliant.medium.com/part-1-end-to-end-machine-learning-model-deployment-using-flask-1df8920da9c3?source=rss-140ffe7d74ee------2)
 - [Introduction to Monty Hall Problem — How More Information Can Affects the Probability](https://medium.com/geekculture/introduction-to-monty-hall-problem-how-more-information-can-affects-the-probability-a1ee2f54e9b1?source=rss-140ffe7d74ee------2)
 - [The Principle of Least Effort and Zipf Distribution in Information Retrieval](https://medium.com/geekculture/the-principle-of-least-effort-and-zipf-distribution-in-information-retrieval-a7199d68465f?source=rss-140ffe7d74ee------2)
 - [Part 2 — An Overview of Indonesia’s Natural Disasters Trends and Insights Over the Last 21 Years](https://audhiaprilliant.medium.com/part-2-an-overview-of-indonesias-natural-disasters-trends-and-insights-over-the-last-21-years-1fa2ca8373eb?source=rss-140ffe7d74ee------2)
 - [Part 1 — An Overview of Indonesia’s Natural Disasters Trends and Insights Over the Last 21 Years](https://audhiaprilliant.medium.com/part-1-an-overview-of-indonesias-natural-disasters-trends-and-insights-over-the-last-21-years-1dd72bbf21a2?source=rss-140ffe7d74ee------2)
-- [Introduction to Fuzzy c-means for Clustering Algorithm](https://audhiaprilliant.medium.com/introduction-to-fuzzy-c-means-for-clustering-algorithm-61b4c647a22b?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
