@@ -38,7 +38,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Simulation of Bootstrapping for Confidence Interval and Hypothesis Testing](https://audhiaprilliant.medium.com/the-simulation-of-bootstrapping-for-confidence-interval-and-hypothesis-testing-3f625b6aecc8?source=rss-140ffe7d74ee------2)
+- [The Simulation of Bootstrapping for Confidence Interval and Hypothesis Testing](https://medium.com/geekculture/the-simulation-of-bootstrapping-for-confidence-interval-and-hypothesis-testing-3f625b6aecc8?source=rss-140ffe7d74ee------2)
 - [Part 3 — End to End Machine Learning Model Deployment Using Flask](https://medium.com/geekculture/part-3-end-to-end-machine-learning-model-deployment-using-flask-43639a64a9db?source=rss-140ffe7d74ee------2)
 - [Part 2 — End to End Machine Learning Model Deployment Using Flask](https://medium.com/geekculture/part-2-end-to-end-machine-learning-model-deployment-using-flask-a73c977221ee?source=rss-140ffe7d74ee------2)
 - [Part 1 — End to End Machine Learning Model Deployment Using Flask](https://medium.com/geekculture/part-1-end-to-end-machine-learning-model-deployment-using-flask-1df8920da9c3?source=rss-140ffe7d74ee------2)
