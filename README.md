@@ -1,10 +1,9 @@
 ### Hi there, I'm [Audhi Aprilliant][website] 👋
 
-## I'm a Man, Friend, and Researcher!
 - 🔭 I’m currently working on a [personal project][website]!
 - 🌱 I’m currently learning Data Science and Analytics 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Give impact to society
+- 🥅 2023 Goals: Give impact to society
 - ⚡ Fun fact: I love blogging, reading books, and drawing
 
 ### Connect with me:
