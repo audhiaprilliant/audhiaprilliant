@@ -37,11 +37,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [How To Deploy Python Flask Application with Docker](https://medium.com/geekculture/how-to-deploy-python-flask-application-with-docker-c12089ba3cd1?source=rss-140ffe7d74ee------2)
 - [Matplotlib 102 — Basic Introduction to Multiplot, Subplot and Gridspec](https://medium.com/geekculture/matplotlib-102-basic-introduction-to-multiplot-subplot-and-gridspec-a3fc4025454d?source=rss-140ffe7d74ee------2)
 - [Matplotlib 101 — Basic Introduction for Python Beginner](https://medium.com/geekculture/matplotlib-101-basic-introduction-for-python-beginner-7708edb50bd7?source=rss-140ffe7d74ee------2)
 - [The Simulation of Bootstrapping for Confidence Interval and Hypothesis Testing](https://medium.com/geekculture/the-simulation-of-bootstrapping-for-confidence-interval-and-hypothesis-testing-3f625b6aecc8?source=rss-140ffe7d74ee------2)
 - [Part 3 — End to End Machine Learning Model Deployment Using Flask](https://medium.com/geekculture/part-3-end-to-end-machine-learning-model-deployment-using-flask-43639a64a9db?source=rss-140ffe7d74ee------2)
-- [Part 2 — End to End Machine Learning Model Deployment Using Flask](https://medium.com/geekculture/part-2-end-to-end-machine-learning-model-deployment-using-flask-a73c977221ee?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
