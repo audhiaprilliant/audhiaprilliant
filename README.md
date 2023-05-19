@@ -48,11 +48,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Infographic for Preparatory Discussion Forum](https://audhiaprilliant.github.io/introduction-to-infographic/)
 - [Certified Information Privacy Manager – CIPM](https://audhiaprilliant.github.io/cipm-iapp/)
 - [Data Science Learning Studio &lpar;DSLS&rpar; 2022](https://audhiaprilliant.github.io/data-science-learning-studio-2022-facilitator/)
 - [BigID Professional Course](https://audhiaprilliant.github.io/bigid-professional-course/)
 - [Step-by-step Manual Calculation of Genetic Algorithm](https://audhiaprilliant.github.io/genetic-algorithm-calculation/)
-- [Statistical Workshop at IPB University, April 2021](https://audhiaprilliant.github.io/statistical-workshop-ipb-university-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
